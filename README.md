@@ -1,4 +1,4 @@
-# Mattermost Profanity Filter Plugin (Beta) ![CircleCI branch](https://img.shields.io/circleci/project/github/mattermost/mattermost-plugin-profanity-filter/master.svg)
+# Mattermost Profanity Filter Plugin (Beta) ![CircleCI branch](https://img.shields.io/circleci/project/github/td00/mattermost-plugin-german-profanity-filter/master.svg)
 
 This plugin allows you to censor profanity on your Mattermost server.
 
@@ -6,7 +6,7 @@ This plugin allows you to censor profanity on your Mattermost server.
 
 ## Installation
 
-1. Go to the [releases page of this Github repository](https://github.com/mattermost/mattermost-plugin-profanity-filter/releases) and download the latest release for your Mattermost server.
+1. Go to the [releases page of this Github repository](https://github.com/td00/mattermost-plugin-german-profanity-filter/releases) and download the latest release for your Mattermost server.
 2. Upload this file in the Mattermost System Console under **System Console > Plugins > Management** to install the plugin. To learn more about how to upload a plugin, [see the documentation](https://docs.mattermost.com/administration/plugins.html#plugin-uploads).
 3. Activate the plugin at **System Console > Plugins > Management**.
 
